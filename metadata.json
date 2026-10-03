@@ -1,0 +1,12 @@
+{
+  "name": "Ice Breaker",
+  "description": "Citizen-style community safety, real-time alert mapping, encrypted messaging with surveillance indicators, incident verification intelligence, and emergency SOS dual-angle evidence recording with civil rights protocols.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
